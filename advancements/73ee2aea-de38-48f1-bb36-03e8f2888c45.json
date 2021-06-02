@@ -1,0 +1,19 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-07 11:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-01-07 12:00:25 +0000",
+      "minecraft:river": "2021-01-07 12:01:16 +0000",
+      "minecraft:wooded_hills": "2021-01-07 11:47:40 +0000",
+      "minecraft:swamp": "2021-01-07 12:00:43 +0000",
+      "minecraft:plains": "2021-01-07 11:45:31 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
